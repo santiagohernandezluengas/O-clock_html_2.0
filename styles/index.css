@@ -1,0 +1,72 @@
+body{
+  background: #DBE8EA;
+}
+#padre{
+  width: 50%;
+  height: 555px;
+  text-align: center;
+  margin-left: 350px;
+  margin-top: 50px;
+  border: #000 solid 1px;
+}
+#bandera{
+  width: 42%;
+  height: 555px;
+  margin-top: -10;
+  background: red;
+}
+#naranja{
+  background: orangered;
+  height: 185px;
+}
+#blanco{
+  background: white;
+  height: 185px;
+}
+#azul{
+  background: #083AF3;
+  height: 185px;
+}
+#blfor{
+  width: 55%;    
+  height: 535px;
+  background: #F7F7F7;
+  border: #000 solid 1px;
+  margin-left: 290px;
+  margin-top: -545px;
+}  
+#formulario{
+  width: 40%;
+  height: 150px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 120px;
+  text-align: left;
+}
+#escudo{
+  background-image: url(../img/Escudo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 52%;
+  height: 220px;
+  float: right;
+  margin-right: 85px;
+  margin-top: 60px;
+}
+input{
+  border: none;
+  border-bottom: #000 solid 2px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #F7F7F7;
+}
+#submit{
+  margin-top: 16px;
+  border: #000 solid 2px;
+  width: 70px;
+  height: 40px;
+  margin-left: 50px;
+}
+label{
+  color: black;
+}

@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  box-sizing: border-box;
+}
+
+.box{
+  border: 2px solid black;
+}
+
+.cont-padre{
+  display: inline-block;
+  margin-top: 100px;
+  width: 80%;
+  margin: auto;
+  padding: 15px;
+}
+
+header{
+  height: 100%;
+  width: 40%;
+}
+main{
+  display: block;
+  width: 50%;
+}
